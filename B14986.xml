@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>It is certified from Palermo in Sicilia, that Don Francisco di Castro, as future Vize-Roy, is gone with his gallies to Gaeta, to be admitted therin, and that the said country hath determined to disburse 12000. crownes, to be imployed for the entertaining of him as a welcome thither: but he would not permit them to doe it, neither would receiue the presents that they of Palermo presented vnto him, nor once suffer the common people to be burthened with any expences.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B14986</idno><idno type="EEBO-CITATION">99893071</idno>
+  <idno type="VID">193602</idno>
+  <idno type="EEBO-PROQUEST">2248562358</idno>
+  
+            <idno type="STC">STC 18507.45</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.114.d.5[16]</idno>
+            <idno type="PROQUEST">ocm99893071</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.  Navigations series.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99893071e"/>
+            <note>(EEBO-TCP ; phase 2, no. B14986)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 193602)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C27:1[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>It is certified from Palermo in Sicilia, that Don Francisco di Castro, as future Vize-Roy, is gone with his gallies to Gaeta, to be admitted therin, and that the said country hath determined to disburse 12000. crownes, to be imployed for the entertaining of him as a welcome thither: but he would not permit them to doe it, neither would receiue the presents that they of Palermo presented vnto him, nor once suffer the common people to be burthened with any expences.</title>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1622?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication conjectured from textual evidence.</note>
+                  <note>Title from first paragraph of text.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Ernst, --  Fürst zu Holstein-Schaumberg, 1569-1622 --  Early works to 1800.</term>
+               <term type="topical_term">Thirty Years' War, 1618-1648 --  Early works to 1800.</term>
+               <term type="geographic_name">Europe --  History --  1517-1648 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:193602:1"/>
+            <pb n="1" facs="tcp:193602:1"/>
+            <p>
+               <seg rend="decorInit">I</seg>T is certified from <hi>Palermo</hi> in Sicilia, that <hi>Don Francisco di Castro,</hi> as future Vize-Roy, is gone with his Gallies to Gaeta, to be admitted ther<g ref="char:EOLhyphen"/>in, and that the said Country hath determined to disburse 12000. crownes, to be imployed for the enter<g ref="char:EOLhyphen"/>taining of him as a welcome thither: but he would not per<g ref="char:EOLhyphen"/>mit them to doe it, neither would receiue the Presents that they of Palermo presented vnto him, nor once suffer the common people to be burthened with any expences.</p>
+            <p>The Vize-Roy of Naples, by reason of the vprore made there because of the great dearth, is yet in the Castle of Saint Ermo, and hath come to a parly with the people, and in the meane time hath sent a Post into Spaine, to certifie the King of the want of Corne, and the disorder touching the monies, and hath further taken order, that euery Citi<g ref="char:EOLhyphen"/>zen shall haue fiue loaues of bread dealt out to them euery day, and euery stranger but one loafe a day.</p>
+            <p>The Popes hath sent out Commission, that all the spiri<g ref="char:EOLhyphen"/>tuall persons that had promised to giue the tenth peny of their reuenewes vnto Pope <hi>Paul</hi> the fifth, for the seruice of the Catholike league in Germany, should presently dis<g ref="char:EOLhyphen"/>burse and pay the one halfe thereof.</p>
+            <p>From Turnio it is written, that the Duke of Sauoy hath giuen his Horsemen two moneths pay, and causeth the Ga<g ref="char:EOLhyphen"/>rison in Asti to be renforced on Saterday in Saint <hi>Anthonio.</hi> The new Gally called <hi>Torre di Mar,</hi> was lanched, to be rig<g ref="char:EOLhyphen"/>ged and armed, and so to be sent vnto the Armado, and <hi>Andre Ferlerichi</hi> Captaine of the Vstochen, was seene in the gulfe of Dalmatia, where he tooke one of <hi>Niclaoes Gardine<g ref="char:EOLhyphen"/>gees</hi> Barkes, and cut off the head of <hi>Stephano Roccouichi</hi> the
+<pb n="2" facs="tcp:193602:2"/>Captaine, which he set vpon the Bandite Stoane, but his Souldiers saued themselues.</p>
+            <p>A Post out of France brings newes, that the King will haue Valtolino restored againe, and that to the same end, he prepareth 80000. foot and 10000. horsemen, to inuade the Hugonites, and Monsieur <hi>de Lesdigincres</hi> with his men are ready to march.</p>
+            <p>The newes is, that vpon the 17. day old and 27. new stile of Ianuary, in the morning about 8. of the clock, the noble Prince <hi>Erust</hi> a Prince of the Empire, Earle of Holstein, Schaumburg, and Sterburg, Barron of Geshmen, &amp;c. to the great griefe and sorrow of his wife, Statholder, Chan<g ref="char:EOLhyphen"/>celour, and Counsell, as also of his faithfull Subiects, and adherents, departed out of this world: and although that by meanes of his death, his said Wife, Country, and Sub<g ref="char:EOLhyphen"/>iects, were much grieued, and sorrowfull, yet they were presently comforted againe, because that vpon the 7. day old stile and the 17. new stile of February, by Gods proui<g ref="char:EOLhyphen"/>dence, the Lord <hi>Iobst Herman,</hi> Earle of Holstein, Shaum<g ref="char:EOLhyphen"/>burg, and Sternberg, Barron of Gehmen and Berghen, &amp;c. was receiued by the Counsell and States of the Countrey, for their Lord and right heire of the land. This happy ele<g ref="char:EOLhyphen"/>ction being made, the body of the aforesaid Prince <hi>Erust</hi> which sumptuously &amp; solemnly buried, vpon Thursday be<g ref="char:EOLhyphen"/>ing the 21. old stile and the 31 of March new stile, God send him a happy resurrection, and peace and plenty vnto his Subiects.</p>
+            <p>Vpon Friday the 4. of March, the Lord <hi>Iohn Baptista We<g ref="char:EOLhyphen"/>ber,</hi> one of the Emperours Counsell, rode vnto Hungarian Bergstar, to receiue the said Towne for the Emperours vse, and to appoint Officers therein.</p>
+            <p>
+               <hi>Bethlem</hi> hath sent all the men of Bergh from thence into Siebenbergen, there to build his hill worke: Since that
+<pb n="3" facs="tcp:193602:2"/>
+               <hi>Bethlem</hi> lay at Caschau, to whom there came a Turkish Am<g ref="char:EOLhyphen"/>bassadour, and it is agreed that the Crowne of Hungaria, and the regall Ensignes, shall be deliuered vnto the Empe<g ref="char:EOLhyphen"/>rours Ambassadors, to the which end he hath caused them to be brought from Etschet to Caschau.</p>
+            <p>It is quiet and peaceable at Vianna, but there shall be more forces sent against the Earle of <hi>Mansfield,</hi> and at Lintz there are 2000. horsemen, and at Steyer 1000. soot men mustered, which shall all goe to <hi>Elsas.</hi>
+            </p>
+            <p>The Saxon Regiment lie still in Presburg, and for that the Burgers therein are much oppressed, they haue sent an humble Petition vnto the Emperour, to desire the sending away of the said Regiment, what will be done therein, wee shall heereafter know. It is reported that the Hungarian lands day, shall be holden in Edenburg.</p>
+            <p>From Prague there is no speciall newes to be written, but that dearth and want of all things daily encreaseth, which is most pittifull to thinke on. The Souldiers and poore people haue great want, and can hardly liue. There is no order taken, and it is feared that it will rather encrease then diminish. Touching the sending away of the Emperours and strange Souldiers out of Morauia: there is some speech made, sometimes it is agreed vpon, and then againe it is put off. The strange Souldiers doe great hurt vnto the In<g ref="char:EOLhyphen"/>habitants of the Country, and although many complaints are made, yet no remedy is had, nor no punishment infli<g ref="char:EOLhyphen"/>cted vpon them. The poore Pesants in great numbers, for want of victuals, die euery day. The Subiects and Pesants goe alway to sowe and till the land, and in the meane time they are robbed of all they haue. The labouring men and seruants are gone, and die for want of worke and maintai<g ref="char:EOLhyphen"/>nance, there is no ground plowed nor sowed, and therefore there is no hope of bettering, but rather a great dearth to
+<pb n="4" facs="tcp:193602:3"/>ensue. The Duke of Lerchtensten is expected to come to Pragne within eight dayes, whose comming they hope will be a meanes of great reformation: God graunt it.</p>
+            <p>It is written from Heydlebergh, that eight dayes past, being the fifth of March, the Bauarian souldiers, set vpon Nuseloch, Waldorof, and Laimen Villages lying about Heydleburgh, and tooke them: whereupon some of the sol<g ref="char:EOLhyphen"/>diers in Heidlebergh in the night issued forth, to set vpon the Bauarians in Laimen, and finding that the Bauarians were gone from thence again, about some other enterprise, they entered into the same, and driuing out all the Cartle they found therein, put a Garison into the Village, and so kept it from being suddainly surprised againe by the Ene<g ref="char:EOLhyphen"/>mie: there were also a good number of Bauarian soldiers seene about Dilsperg Minnenburg.</p>
+            <p>Out of Spiers it is written, that Generall <hi>Tilly</hi> had taken two Villages in the Palatinate, and hardly beset Wiseloch, but could not preuaile against it: but when <hi>Mansfield</hi> drew neere to Manheim bridge, <hi>Tilly</hi> being not strong enough in the field, he retired againe, whereby the affaires remaine in <hi>antiquis terminis,</hi> so that no man can write any certainty thereof. Colonell <hi>Ouertrant</hi> is at Germersheim with his forces.</p>
+            <p>To Lindenburg there are many Saylers, Carpenters, and Bridge Masters, come from Stein, to set the ship bridge ouer the Necker. There shall be no bridge ouer the Rhine at Stein, but at Oppenheim. The Earle of <hi>Mansfield</hi> is daily expected at Manheim, whose intent is, with halfe his Ar<g ref="char:EOLhyphen"/>my, to march the Berghstrate, and with the other halfe to goe to Oppenheim.</p>
+            <p>From France it is confirmed, that <hi>Monsieur de la Force,</hi> hath ouerthrowne <hi>Monsieur S<seg rend="sup">t</seg>. Lurks</hi> Regiment, and that some places in Languedor are besieged and taken by the
+<pb n="5" facs="tcp:193602:3"/>Barron <hi>de Sonbise:</hi> since that the Hugonites haue take the Towne of Neracagaine, driuen the Garison out of it, and killed many of them. They of Rochell haue cut off the pas<g ref="char:EOLhyphen"/>sage of sending any thing to <hi>Burdeaux</hi> by water, &amp; are gone with their Army by sea else where; yet in Paris they speake of a peace.</p>
+            <p>Colonell <hi>Pithan</hi> hauing ouer night supt with the Prince of Orange, by commaundement of the Counsell of State, was the same night arrested by the Marshall of the Court being in his lodging, and it is said that hee is put into the place where <hi>Barnfeld</hi> was committed prisoner, and it ap<g ref="char:EOLhyphen"/>peareth, that others also will be brought thether, for all the Captaines that were in Gulick, are sent for the ther.</p>
+            <p>There are two Souldiers of Hensden, and three horse<g ref="char:EOLhyphen"/>men of Gertrudenbergh, that are suspected to be acquain<g ref="char:EOLhyphen"/>ted with the Treason that is discouered, and are brought prisoners to the Hage, who haue beene rackt to make them to confesse their fault.</p>
+            <p>There is preparation made here for an Army by land.</p>
+            <p>There came a Letter from Midleburgh in Zealand to Amsterdam, that they of Sluce in Flaunders haue cut cer<g ref="char:EOLhyphen"/>taine sluces of water, and thereby haue not onely enclosed all the Spanish Sconces, but also the Towne of Bruges and Gant round aboutwith water, whereby many thousand A<g ref="char:EOLhyphen"/>kers of land are drowned, and great hurt is done in the land. And that there are Armes for 15000. men sent to Breame for <hi>Christian</hi> Duke of Brunswick: and since that, that there are as many more bought for 6000. men.</p>
+            <p>The Lords, the States Proclamation was proclaimed in Amsterdam, whereby they prohibit all Iesuites and other Priests, as well Strangers as naturall borne Subiects, within sixe dayes after the publication thereof, not to come into, nor stay within the vnited Prouinces, but for such naturall
+<pb n="6" facs="tcp:193602:4"/>Priests as dwell there: they are permitted to stay therein, certifying their names and lodgings vnto the Magistrates of the places where they are resident.</p>
+            <p>From Cullen it is written, that after the taking of the Towne of Geiseck, the chiefe Lieutenant Colonell <hi>Erwitte</hi> went backe againe with certaine thousand Horsemen to <hi>Paterborne,</hi> and tooke the Townes of Peckelsheim, Bergen<g ref="char:EOLhyphen"/>rich, Bercholt, and Warburg, vpon the 10. of March, and of them of Carpegan newly taken, suddainly surprized and killed 1000. horse and foot men, and tooke some of the Of<g ref="char:EOLhyphen"/>ficers prisoners.</p>
+            <p>The Bishop of Haluerstads force haue fallen vpon foure Companies of the Lutische Regiment, whereof they tooke some prisoners, and did great hurt vnto the horsemen: it is said, that the Bauarian Souldiers haue taken Paderborne againe.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:193602:4"/>
+         </div>
+      </body>
+   </text>
+</TEI>
